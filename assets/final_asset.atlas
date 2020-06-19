@@ -1,0 +1,55 @@
+
+final_asset.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ban_da_hoan_thanh_thu_thach
+  rotate: false
+  xy: 1307, 1329
+  size: 426, 110
+  orig: 426, 110
+  offset: 0, 0
+  index: -1
+board_dung_bo_lo_chuong_trinh
+  rotate: false
+  xy: 2, 2
+  size: 620, 732
+  orig: 620, 732
+  offset: 0, 0
+  index: -1
+end_screen_bg
+  rotate: false
+  xy: 2, 736
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+game_over
+  rotate: false
+  xy: 1307, 1441
+  size: 622, 575
+  orig: 622, 575
+  offset: 0, 0
+  index: -1
+popup_voucher
+  rotate: false
+  xy: 724, 774
+  size: 581, 1242
+  orig: 581, 1242
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 624, 682
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+xem_ngay
+  rotate: false
+  xy: 1307, 1208
+  size: 262, 119
+  orig: 262, 119
+  offset: 0, 0
+  index: -1
